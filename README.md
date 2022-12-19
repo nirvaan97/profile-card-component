@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card component
+# [Frontend Mentor - Profile card component]( https://nirvaan97.github.io/profile-card-component/)
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
